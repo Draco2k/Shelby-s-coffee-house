@@ -564,9 +564,9 @@ span:nth-child(4) {
 		top: -10%;
 	}
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
 	.navbar ul li a {
-		width: 85px;
+		width: 70px;
 	}
 
 	.navbar .logo img {
@@ -605,5 +605,8 @@ span:nth-child(4) {
 	}
 	#about p {
 		font-size: 24px;
+	}
+	.footer {
+		height: 40vh;
 	}
 }
